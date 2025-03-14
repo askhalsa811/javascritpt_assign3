@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 999.99,
+    "description": "High-performance laptop with 16GB RAM and 512GB SSD",
+    "category": "Electronics",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 699.99,
+    "description": "Latest smartphone with 128GB storage and 5G capability",
+    "category": "Electronics",
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 149.99,
+    "description": "Noise-cancelling wireless headphones with 30-hour battery life",
+    "category": "Audio",
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 249.99,
+    "description": "Fitness tracker with heart rate monitor and GPS",
+    "category": "Wearables",
+    "inStock": false
+  },
+  {
+    "id": 5,
+    "name": "Tablet",
+    "price": 399.99,
+    "description": "10-inch tablet with high-resolution display and 64GB storage",
+    "category": "Electronics",
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Wireless Speaker",
+    "price": 79.99,
+    "description": "Portable Bluetooth speaker with waterproof design",
+    "category": "Audio",
+    "inStock": true
+  }
+]
